@@ -1,0 +1,47 @@
+body{
+    background-color: #FFCCAA;
+}
+
+a{
+    color: #A04000;
+}
+
+p{
+    font-family: Tahoma;
+    font-size: 14px;
+    text-align: justify;
+}
+
+#vm{
+    margin: 5px 20px 5px 20px;
+    float: left;
+    width: 150;
+}
+
+#f{
+    margin: 5px 20px 5px 20px;
+    float: right;
+    width: 195;
+}
+
+#kozep{
+    text-align: center;
+}
+
+#forras{
+    vertical-align: bottom;
+    text-align: right;
+}
+
+.vastag{
+    font-weight: bold;
+}
+
+h1{
+    color: #A04000;
+}
+
+table{
+    width: 100%;
+    border: none;
+}
